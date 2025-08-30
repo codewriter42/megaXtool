@@ -117,3 +117,4 @@ GUI-based tools like Maltego, Burp Suite, or Wireshark require a GUI environment
 
 Always use these tools ethically and legally.
 
+You can help us improve the system by sharing errors with us at codewriter@proton.me . Thank you...
